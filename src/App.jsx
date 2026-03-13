@@ -1,7 +1,7 @@
 
 import './App.css'
 import FridgePage from './pages/FridgePage'
-import AcPage from './pages/acPage';
+import AcPage from './pages/AcPage';
 import BooksPage from './pages/BooksPage';
 import ComputerPage from './pages/ComputerPage';
 import FurniturePage from './pages/FurniturePage';
